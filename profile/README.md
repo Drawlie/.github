@@ -1,4 +1,4 @@
-# 🌺 Drawlie - We Love Art 🌺
+# 🌺 Drawlie - We Love Creativity 🌺
 ## The new platform for artists and creatives – Share, Grow, Thrive.
 Drawlie is an image sharing platform for artists and creatives to upload content and receive feedback from other users. In the future, Drawlie will be a platform where users can be inspired, collaborate, support each other and develop their creative skills.
 
