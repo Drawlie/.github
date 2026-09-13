@@ -1,8 +1,12 @@
-# 🌺 Drawlie - We Love Creativity 🌺
-## The Pulse of Digital Creation, For Digital Artists Who Create, Connect, and Share
-Drawlie is an image sharing platform for digital artists to upload content and receive feedback from other users. In the future, Drawlie will be a platform where users can be inspired, collaborate, support each other and develop their creative skills.
+# 🌺 Drawlie - The Pulse of Digital Creation 🌺
 
-Help us to create a new platform where artists feel at home!
+We're working on something new!
+Wir arbeiten an etwas Neuem!
+Pracujeme na něčem novém!
+Työstämme parhaillaan jotain uutta!
+Stiamo lavorando a qualcosa di nuovo!
+今、新しいプロジェクトに取り組んでいます！
+저희는 새로운 프로젝트를 준비 중입니다!
 
 Website: https://drawlie.net/
 Discord Server https://discord.gg/VkAUeHdHtf 
